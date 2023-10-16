@@ -1,4 +1,4 @@
-# Time-series-Prediction: Built a Time series model to predict Readmision of patients in Hospital. For HIPPA issues i have used a randomly generated data set.
+# Time-series-Prediction: Built a Time series model to predict Admision of patients in Hospital. For HIPPA issues i have used a randomly generated data set.
 # I created multiple time series model and evalueteed that best fits the model EMA 
 
 From the SARIMA model we built with synthetic data, we aimed to forecast patient readmissions for future months. Let's extract some key insights and possible utility from such a model for your stakeholders:

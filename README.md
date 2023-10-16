@@ -37,6 +37,5 @@ From the SARIMA model we built with synthetic data, we aimed to forecast patient
 ### Conclusion
 The SARIMA model, through its forecasts, provides a forward-looking view, enabling stakeholders to plan and strategize effectively to manage patient readmissions. It becomes a tool that, if used effectively, can enhance operational efficiency, improve patient care, and potentially uncover areas for strategic improvement in patient management post-discharge.
 
-In practical scenarios, it’s crucial to continuously validate and refine the model with new data, ensuring its predictive power remains robust. Also, integrating domain expert insights into model refinement and strategy development is key to ensuring its practical applicability and effectiveness.
 
-If you have any specific aspects you'd like to explore further, feel free to ask!
+
